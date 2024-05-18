@@ -6,7 +6,7 @@
 
 ### [Rust](https://www.rust-lang.org/learn)
 
-* [`sogouda`](#core-library) - The core library (written in [Rust](https://www.rust-lang.org/learn)).
+* [`sogouda_core`](#core-library) - The core library (written in [Rust](https://www.rust-lang.org/learn)).
 
 ### JavaScript/[TypeScript](https://www.typescriptlang.org/)
 
@@ -15,8 +15,8 @@
 
 ## Core Library
 
-The core library, [`sogouda`](https://crates.io/crates/sogouda), is written in [Rust](https://www.rust-lang.org/learn) to enhance compatibility, performance, and security.
-Bindings for `sogouda` are available for different programming languages.
+The core library, [`sogouda_core`](https://crates.io/crates/sogouda), is written in [Rust](https://www.rust-lang.org/learn) to enhance compatibility, performance, and security.
+Bindings for [`sogouda_core`](#core-library) are available for different programming languages.
 
 [The source code is available on GitHub.](#sogouda)
 
