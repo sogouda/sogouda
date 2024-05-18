@@ -40,9 +40,9 @@ This file contains the compiled bindings to [the core library](#core-library). E
 
 ## JavaScript/[TypeScript](https://www.typescriptlang.org/) API
 
-Sogouda exposes a high-level API as a [TypeScript](https://www.typescriptlang.org/) library.
+Sogouda exposes [a high-level JavaScript/TypeScript API](https://github.com/sogouda/node-sogouda/) written in [TypeScript](https://www.typescriptlang.org/).
 This makes designing apps feel a lot more familiar to developers coming from Electron or other similar frameworks.
-Type definitions are created in [TypeScript](https://www.typescriptlang.org/) and compiled into a `.d.ts` file to accompany [the distributable files](https://github.com/sogouda/node-sogouda/tree/release/dist).
+Type definitions are created in [TypeScript](https://www.typescriptlang.org/) and compiled into a `.d.ts` file to accompany the distributable files.
 
 [The source code is available on GitHub.](https://github.com/sogouda/node-sogouda)
 
