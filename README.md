@@ -10,8 +10,8 @@
 
 ### JavaScript/[TypeScript](https://www.typescriptlang.org/)
 
+* [`sogouda`](#javascripttypescript-api) - A high-level library for [Sogouda](#sogouda) written in [TypeScript](https://www.typescriptlang.org/).
 * [`@sogouda/bindings`](#javascripttypescript-bindings) - [TypeScript](https://www.typescriptlang.org/) bindings for [`sogouda`](#core-library).
-* [`@sogouda/sogouda`](#javascripttypescript-api) - High-level library for [Sogouda](#sogouda) written in [TypeScript](https://www.typescriptlang.org/).
 
 ## Core Library
 
